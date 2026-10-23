@@ -1,0 +1,4 @@
+timestamp,symbol,quantity,buy_price,current_price,invested,market_value,profit_loss,percent_change
+2026-10-23T17:36:57+05:30,AAPL,5,200.00,230.00,1000.00,1150.00,150.00,15.00
+2026-10-23T17:36:57+05:30,MSFT,2,400.00,510.00,800.00,1020.00,220.00,27.50
+2026-10-23T17:36:57+05:30,PORTFOLIO_TOTAL,,,,1800.00,2170.00,370.00,20.56
